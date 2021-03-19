@@ -8,4 +8,4 @@ Intentemos mantener los códigos actualizados, asi como una mejora continua en e
 2. :movie_camera: Capítulo dos. [Paradigmas de aprendizaje IA](https://www.youtube.com/watch?v=b-7mR8-IwfQ&t)
 3. :movie_camera: Capítulo tres. [¿Donde programar una IA?](https://www.youtube.com/watch?v=Do5tZjsxhl4&t)
 4. :movie_camera: Capítulo cuatro. [Mi primera red neuronal PT 1](https://www.youtube.com/watch?v=2R3iiMWlnhM&t)
-5. :movie_camera: Capítulo cuatro. [Mi primera red neuronal PT 2](https://www.youtube.com/watch?v=YjFZF51Z0iE&t) [Código](https://github.com/FereBell/IntroduccionDeepLearning/blob/master/Mi_primera_red_neuronal.ipynb)
+5. :movie_camera: Capítulo cuatro. [Mi primera red neuronal PT 2](https://www.youtube.com/watch?v=YjFZF51Z0iE&t) - [Código](https://github.com/FereBell/IntroduccionDeepLearning/blob/master/Mi_primera_red_neuronal.ipynb) del video
